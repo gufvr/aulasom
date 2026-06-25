@@ -1,0 +1,9 @@
+import { View, Text } from "react-native";
+
+export default function Attendance() {
+  return (
+    <View>
+      <Text>Attendance AulaSom</Text>
+    </View>
+  );
+}
